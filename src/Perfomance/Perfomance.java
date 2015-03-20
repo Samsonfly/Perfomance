@@ -1,8 +1,9 @@
 package Perfomance;
 
-public class Perfomance {
-
-    public static void main(String[] args) {
+public class Perfomance 
+{
+    public static void main(String[] args) 
+    {
         // Declaration variables
         double groundRoll, totalToClear, headwind = 0, tailwind = 0, runwayConditionIncrease;
         char windDirection, runwayCondition;
